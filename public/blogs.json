@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
+      "title": "The Enigmatic Journey",
+      "author_name": "John Doe",
+      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
+      "post_date": "2024-02-27",
+      "reading_time": 15,
+      "hashtags": ["#adventure", "#mystery"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
+      "title": "Whimsical Dreams",
+      "author_name": "Jane Smith",
+      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
+      "post_date": "2024-02-26",
+      "reading_time": 10,
+      "hashtags": ["#fantasy", "#imagination"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
+      "title": "Echoes of Silence",
+      "author_name": "Alex Johnson",
+      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
+      "post_date": "2024-02-25",
+      "reading_time": 20,
+      "hashtags": ["#philosophy", "#reflection"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
+      "title": "Serenade of Stars",
+      "author_name": "Emily Davis",
+      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
+      "post_date": "2024-02-24",
+      "reading_time": 18,
+      "hashtags": ["#space", "#romance"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
+      "title": "Infinite Horizons",
+      "author_name": "Chris Brown",
+      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
+      "post_date": "2024-02-23",
+      "reading_time": 12,
+      "hashtags": ["#exploration", "#science"]
+    }
+  ]
+  

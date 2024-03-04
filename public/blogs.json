@@ -1,53 +1,53 @@
 [
-    {
-      "id": 1,
-      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
-      "title": "How to get your first job as a self-taught programmer",
-      "author_name": "John Doe",
-      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
-      "post_date": "2024-02-27",
-      "reading_time": 15,
-      "hashtags": ["#adventure", "#mystery"]
-    },
-    {
-      "id": 2,
-      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
-      "title": "Whimsical Dreams",
-      "author_name": "Jane Smith",
-      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
-      "post_date": "2024-02-26",
-      "reading_time": 10,
-      "hashtags": ["#fantasy", "#imagination"]
-    },
-    {
-      "id": 3,
-      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
-      "title": "How to get your first job as a self-taught programmer",
-      "author_name": "Alex Johnson",
-      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
-      "post_date": "2024-02-25",
-      "reading_time": 20,
-      "hashtags": ["#philosophy", "#reflection"]
-    },
-    {
-      "id": 4,
-      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
-      "title": "Serenade of Stars",
-      "author_name": "Emily Davis",
-      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
-      "post_date": "2024-02-24",
-      "reading_time": 18,
-      "hashtags": ["#space", "#romance"]
-    },
-    {
-      "id": 5,
-      "cover": "https://i.ibb.co/5j805pC/2935.jpg",
-      "title": "How to get your first job as a self-taught programmer",
-      "author_name": "Chris Brown",
-      "author_image": "https://i.ibb.co/5j805pC/2935.jpg",
-      "post_date": "2024-02-23",
-      "reading_time": 12,
-      "hashtags": ["#exploration", "#science"]
-    }
+  {
+    "id": 1,
+    "cover_pic_link": "https://i.ibb.co/p020smx/close-up-portrait-young-beautiful-attractive-redhair-girl-smiling-showing-digital-tablet-screen-b.jpg",
+    "author_name": "John Doe",
+    "author_profile_link": "https://i.ibb.co/7X6QRDs/portrait-female-chef-with-bowl-mixing.jpg",
+    "submit_date": "12 May 2024",
+    "reading_time": 15,
+    "title": "How to get your first job as a self-taught programmer",
+    "hashtags": "#science, #space"
+  },
+  {
+    "id": 2,
+    "cover_pic_link": "https://i.ibb.co/HgVzf4Y/close-up-hand-with-painting-pallete.jpg",
+    "author_name": "Jane Smith",
+    "author_profile_link": "https://i.ibb.co/jZbtyLT/portrait-craft-woman-with-tools.jpg",
+    "submit_date": "27 February 2024",
+    "reading_time": 10,
+    "title": "How to get your first job as a self-taught programmer",
+    "hashtags": "#coding, #technology"
+  },
+  {
+    "id": 3,
+    "cover_pic_link": "https://i.ibb.co/p020smx/close-up-portrait-young-beautiful-attractive-redhair-girl-smiling-showing-digital-tablet-screen-b.jpg",
+    "author_name": "Alice Johnson",
+    "author_profile_link": "https://i.ibb.co/vJ2Q7Nv/portrait-teacher-female-holding-book.jpg",
+    "submit_date": "26 February 2024",
+    "reading_time": 20,
+    "title": "How to get your first job as a self-taught programmer",
+    "hashtags": "#nature, #exploration"
+  },
+  {
+    "id": 4,
+    "cover_pic_link": "https://i.ibb.co/fQHc4tF/green-leafy-plants-black-background.jpg",
+    "author_name": "Bob Williams",
+    "author_profile_link": "https://i.ibb.co/7X6QRDs/portrait-female-chef-with-bowl-mixing.jpg",
+    "submit_date": "25 February 2024",
+    "reading_time": 12,
+    "title": "How to get your first job as a self-taught programmer",
+    "hashtags": "#history, #adventure"
+  },
+  {
+    "id": 5,
+    "cover_pic_link": "https://i.ibb.co/HgVzf4Y/close-up-hand-with-painting-pallete.jpg",
+    "author_name": "Eva Brown",
+    "author_profile_link": "https://i.ibb.co/vJ2Q7Nv/portrait-teacher-female-holding-book.jpg",
+    "submit_date": "24 February 2024",
+    "reading_time": 18,
+    "title": "How to get your first job as a self-taught programmer",
+    "hashtags": "#technology, #trends"
+  }
   ]
   

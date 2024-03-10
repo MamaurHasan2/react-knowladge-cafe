@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 const Bookmark = ({ bookmark }) => {
-  console.log(bookmark);
+  // console.log(bookmark);
   const { title } = bookmark;
   return (
     <div className="bg-slate-800 m-3">
@@ -9,7 +9,7 @@ const Bookmark = ({ bookmark }) => {
   );
 };
 Bookmark.propTypes = {
-  bookmark: PropTypes.func,
+  bookmark: PropTypes.object.isRequired,
 };
 
 export default Bookmark;

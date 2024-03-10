@@ -3,6 +3,7 @@ import { RiBookmark3Fill } from "react-icons/ri";
 
 const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
   const {
+    id,
     title,
     cover_pic_link,
     author_name,
@@ -11,7 +12,7 @@ const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
     submit_date,
     reading_time,
   } = blog;
-  console.log(blog);
+  // console.log(blog);
   return (
     <div className="">
       <img
@@ -45,7 +46,7 @@ const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
       <h3 className="text-4xl text-left">{title}</h3>
       <h5 className="text-left text-blue-600">{hashtags}</h5>
       <button
-        onClick={() => handleReadingTime(reading_time)}
+        onClick={() => handleReadingTime(reading_time, id)}
         className="text-left text-blue-800 font-bold underline"
       >
         Mark as Read

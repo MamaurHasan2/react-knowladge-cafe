@@ -13,8 +13,13 @@ function App() {
     setBookmarks(newBookmark);
   };
 
-  const handleReadingTime = (time) => {
+  const handleReadingTime = (time, id) => {
     setReadingTime(readingTime + time);
+    // remove Bookmarks items
+    const bookmarkItemRemove = bokmarks.filter(
+      (bookmark) => bookmark.id !== id
+    );
+    setBookmarks(bookmarkItemRemove);
   };
 
   return (
